@@ -24,4 +24,8 @@ public class HomeController {
     public String goCards() {
         return "/sb-admin-2/cards";
     }
+    @GetMapping("/charts")
+    public String goCharts() {
+        return "/sb-admin-2/charts";
+    }
 }
