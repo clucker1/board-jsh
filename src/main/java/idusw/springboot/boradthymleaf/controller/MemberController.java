@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.*;
 public class MemberController {
 
     MemberService memberService;
-    public MemberController(MemoService memoService) {
+    public MemberController(MemberService memberService) {
         this.memberService = memberService;
     }
 
