@@ -1,8 +1,8 @@
 * * * * * * * * * * * * * * * *
-* * UPGRADE TO SB ADMIN PRO * *
+* * UPGRADE TO JSH Blog PRO * *
 * * * * * * * * * * * * * * * *
 
-Save $10 and upgrade to SB Admin Pro.
+Save $10 and upgrade to JSH Blog Pro.
 Use the coupon code:
 
 SAVE10
@@ -11,7 +11,7 @@ when making your purchase at
 https://startbootstrap.com/theme/sb-admin-pro.
 
 * * * * * * * * * * * * * * *
-* * SB ADMIN PRO INCLUDES * *
+* * JSH Blog PRO INCLUDES * *
 * * * * * * * * * * * * * * *
 
 - Full Documentation
